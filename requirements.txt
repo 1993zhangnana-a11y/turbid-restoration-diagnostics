@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+pillow>=9.0
+pandas>=1.5
+matplotlib>=3.7
+# optional, for training the prior arms / public-benchmark baseline and perceptual metrics
+torch>=2.0
+lpips>=0.1.4
+piq>=0.8
